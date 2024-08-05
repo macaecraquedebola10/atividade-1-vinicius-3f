@@ -6,7 +6,9 @@ const altura = 1.77;
 
 const massa = 70;
 
-const cidadeondemora = "saojosedospinhais"
+const cidadeondemora = "sao jose dos pinhais"
+
+
 
 console.log (meuNome)
 
